@@ -1,0 +1,11 @@
+root = true
+
+[*]
+charset = utf-8
+ij_javascript_force_semicolon_style = true
+end_of_line = lf
+indent_size = 2
+indent_style = space
+insert_final_newline = false
+max_line_length = 120
+tab_width = 2
